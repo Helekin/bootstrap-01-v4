@@ -4,6 +4,7 @@
 In this project you will find the complete exercises of the Udemy course of the user and instructor Brad Traversy called "Bootstrap 4 From Scratch With 5 Projects, (last updated June 2018)"
 </p>
 
+- [Udemy Instructor](https://www.udemy.com/user/brad-traversy/)
 - [Udemy Course](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/)
 
 ## Getting Started
